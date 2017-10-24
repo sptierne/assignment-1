@@ -14,11 +14,11 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
+  border-color: white; }
+
   border-color: #F05F40; }
 
 hr.light {
-  border-color: white; }
-
 a {
   color: #F05F40;
   -webkit-transition: all 0.2s;
